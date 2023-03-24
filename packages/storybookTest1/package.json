@@ -1,7 +1,7 @@
 {
   "name": "mobile-storybok-package",
   "version": "2.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
