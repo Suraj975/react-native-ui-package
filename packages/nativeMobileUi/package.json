@@ -1,5 +1,5 @@
 {
-  "name": "nativeMobileUi",
+  "name": "native-mobile-ui",
   "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
@@ -17,5 +17,5 @@
     "react-native": "0.68.2",
     "typescript": "^4.8.4"
   },
-  "gitHead": "1fc9498dac7e5af53abce445b1a67402e8e61aae"
+  "gitHead": "387c9e7d3c8b2ebef256c4ae3903cde140fc8e31"
 }
