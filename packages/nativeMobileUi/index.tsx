@@ -1,2 +1,3 @@
 import Button from './components/button'
-export { Button };
+import TestBox from './components/TestBox'
+export { Button, TestBox };
