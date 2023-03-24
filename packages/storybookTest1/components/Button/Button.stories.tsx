@@ -1,16 +1,16 @@
-// stories/MyButton.stories.tsx
+// stories/Button.stories.tsx
 import React from 'react';
-import {ComponentMeta, ComponentStory} from '@storybook/react';
+import { ComponentMeta, ComponentStory } from '@storybook/react';
 
-import {MyButton} from './Button';
+import { Button } from 'native-mobile-ui'
 
 export default {
-  title: 'components/MyButton',
-  component: MyButton,
-} as ComponentMeta<typeof MyButton>;
+  title: 'components/Button',
+  component: Button,
+} as ComponentMeta<typeof Button>;
 
-export const Basic: ComponentStory<typeof MyButton> = args => (
-  <MyButton {...args} />
+export const Basic: ComponentStory<typeof Button> = args => (
+  <Button {...args} />
 );
 
 Basic.args = {
