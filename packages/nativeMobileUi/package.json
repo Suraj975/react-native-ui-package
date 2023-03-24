@@ -11,10 +11,10 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "react": "17.0.2",
-    "react-native": "0.68.2",
     "@types/react": "^18.0.25",
     "@types/react-native": "^0.70.6",
+    "react": "17.0.2",
+    "react-native": "0.68.2",
     "typescript": "^4.8.4"
   }
 }
