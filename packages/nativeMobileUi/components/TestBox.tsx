@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
         alignItems: 'flex-start',
         flex: 1,
         border: '1px solid black',
-        color: "red"
+        color: "green"
     },
 });
 
