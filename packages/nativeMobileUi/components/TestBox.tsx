@@ -13,7 +13,8 @@ const styles = StyleSheet.create({
     container: {
         alignItems: 'flex-start',
         flex: 1,
-        border: '1px solid black'
+        border: '1px solid black',
+        color: "red"
     },
 });
 
